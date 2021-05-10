@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+}
+#manu-ber{
+    text-align: right;
+    margin-top: 3%;
+    margin-right: 10%;
+}
+.manu-ber-resizes{
+    padding: 15px 15px;
+}
+h1{
+    font-family: 'Antonio', sans-serif;
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2{
+    font-family: 'Antonio', sans-serif;
+    font-size: 40px;
+}
+h3{
+    margin: 0;
+}
+.first-liner-highlight{
+    color:#363958;
+}
+.second-liner-highlight{
+    color:#FF8376;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,lightsalmon);
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.creating-link-btn{
+    margin-top: 35px;
+}
+section{
+    height: 500px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.left-site{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.right-site{
+    padding-top: 5%;
+    padding-right: 10%;
+}
+.about-area{
+    padding: 5% 10%;
+    text-align: justify;
+}
+img{
+    width: 100%;
+}
+.project-area{
+    background-color: #F8F9FC;
+    height: 650px;
+}
+.working-project-header{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.project-list{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.lastet-project{
+    width: 25%;
+    height: 25%;
+    float: left;
+    padding: 2% 2%;
+    margin: 2% 2%;
+    border-radius: 5%;
+    background-color: white;
+}
+.project-images{
+    height: 60%;
+}
+.inquiry-area{
+    margin: 10% 20%;
+    height: 400px;
+}
+.work-inquiry{
+    color: white;
+    background-image: url(images/background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 25px 50px;
+    border-radius: 20px;
+}
+.another-half-width{
+    display: inline-flex;
+}
+.chat-btn{
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+footer{
+    margin-top: 70px;
+    text-align: center;
+}
+footer p{
+    font-size: 20px;
+    color: dimgray;
+}
+footer a{
+    font-size: 35px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.icons img{
+    width: 40px;
+    height: 40px;
+    padding: 25px 10px;
+}
+
+
