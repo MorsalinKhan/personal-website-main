@@ -40,6 +40,7 @@ h3{
 }
 section{
     height: 500px;
+    padding-bottom: 20px;
 }
 .half-width{
     width: 40%;
@@ -73,7 +74,7 @@ img{
     margin-left: 5%;
     margin-right: 5%;
 }
-.lastet-project{
+.latest-project{
     width: 25%;
     height: 25%;
     float: left;
